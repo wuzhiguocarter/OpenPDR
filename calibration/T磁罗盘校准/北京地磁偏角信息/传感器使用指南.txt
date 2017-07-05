@@ -1,0 +1,9 @@
+陀螺仪    正方向：以z为旋转轴，x-y方向转为正
+加速度    正方向：加速度与坐标轴方向一致为正
+磁场强度  正方向：磁力线方向与坐标轴方向一致为正
+
+HMC5883配置
+	Recommended Sensor Field Range +-4.7 Ga
+	Gain(LSb/Gauss) 390
+
+Self-Test自检，器件是否能用

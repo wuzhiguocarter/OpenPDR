@@ -1,0 +1,13 @@
+Ellipsoid center: 18.107 -84.11 -5.3915
+Ellipsoid radii: 248.64 219.52 204.02
+Fator Scale: 0.82054 0.92939 1
+Ellipsoid evecs:
+-0.15258 0.98716 -0.047274
+-0.6365 -0.13475 -0.75942
+-0.75604 -0.085781 0.64888
+Algebraic form:
+2.5618e-05 1.8564e-05 2.5167e-05 1.0257e-06 -1.8643e-06 3.572e-08 -0.00038763 0.001543 0.00017245 -1 
+Average deviation of the fit: 0.39556
+
+
+[rang_mx rang_my rang_mz] =  218   252   225

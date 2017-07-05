@@ -1,0 +1,13 @@
+椭球拟合算法，用matlab实现的
+Matlab realize ellipsoid fitting algorithm
+本程序对三维散点数据进行椭球拟合
+Ellipsoid center: 6.4169 -100.06 7.1118
+Ellipsoid radii: 248.32 233.76 219.15
+Fator Scale: 0.88251 0.93749 1
+Ellipsoid evecs:
+0.48064 -0.87415 -0.069629
+0.71855 0.43812 -0.54013
+0.50265 0.20958 0.8387
+Algebraic form:
+2.2193e-05 2.0224e-05 2.4126e-05 1.372e-06 1.3623e-06 3.8055e-07 -1.4809e-05 0.0020121 -0.00014224 -1 
+Average deviation of the fit: 0.21593

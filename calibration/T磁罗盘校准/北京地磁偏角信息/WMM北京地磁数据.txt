@@ -1,0 +1,18 @@
+http://www.magnetic-declination.com/
+ 地磁偏角 （magnetic declination）：是指地球表面任一点的磁子午圈同地理子午圈的夹角 。由于地磁场一直在不断地变化，甚至发生地磁倒转，因此地磁偏角不仅因地而异，而且因时而异。
+Latitude: 39° 57' 37.3" N
+Longitude: 116° 21' 27.7" E
+Magnetic declination: -6° 44' 【磁偏角】 -6.73deg
+Declination is NEGATIVE (WEST)
+Inclination: 59° 2' 【磁倾角】 59.03deg
+Magnetic field strength: 54587.6 nT = 0.55 Gauss
+
+
+HMC5883配置
+	Recommended Sensor Field Range +-4.7 Ga
+	Gain(LSb/Gauss) 390
+	
+	390*0.55 = 214
+
+地磁场强度
+    地磁场强度大约是0.5-0.6高斯，也就是5-6*E-5特斯拉（50-60μT）。
