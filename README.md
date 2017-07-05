@@ -6,6 +6,12 @@
 ## 3. *Data Prepocessing Tools* specified for PDR applications
 ### 3.1 Detection and removal of outliers
 ### 3.2 Sensor automatic calibration method
+- 
 ### 3.3 Smoothing and filtering
+- Moving average filters(unwighted,wighted)
+- Median filters(unwighted,wighted)
+- Complementary filters
+- Kalman filters(KF/EKF/UKF)
+- Partical filters(PF)
 ## 4. Typical *Implementation of PDR algorithms* derived from mainstream academic research
 ## 5. *Interface* open to integrate with other localization modules
