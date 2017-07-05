@@ -6,7 +6,9 @@
 ## 3. *Data Prepocessing Tools* specified for PDR applications
 ### 3.1 Detection and removal of outliers
 ### 3.2 Sensor automatic calibration method
-- 
+- Ellipsoid fit method(6 parameters)
+- Six-sided Calibration
+- Allan variance analysis
 ### 3.3 Smoothing and filtering
 - Moving average filters(unwighted,wighted)
 - Median filters(unwighted,wighted)
