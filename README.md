@@ -12,6 +12,6 @@
 - Median filters(unwighted,wighted)
 - Complementary filters
 - Kalman filters(KF/EKF/UKF)
-- Partical filters(PF)
+- Particle Filters(PF)
 ## 4. Typical *Implementation of PDR algorithms* derived from mainstream academic research
 ## 5. *Interface* open to integrate with other localization modules
